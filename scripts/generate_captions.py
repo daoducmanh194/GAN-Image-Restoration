@@ -73,3 +73,4 @@ if __name__ == "__main__":
     generate_captions(dataroot, ci, 'val')
     generate_captions(dataroot, ci, 'train')
     
+
